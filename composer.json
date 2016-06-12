@@ -1,0 +1,14 @@
+{
+    "name": "lilessam/frontendmailsender",
+    "description": "Frontend users mail sender plugin for Laravel 5.2/OctoberCMS",
+    "authors": [
+        {
+            "name": "Ahmed Essam",
+            "email": "ErwinChafros@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
