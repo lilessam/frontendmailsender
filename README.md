@@ -27,3 +27,5 @@ Plugin can be used for sending mails to any of frontend user groups.
 
 ###Screenshot
 ![Image of MailSender](http://i.imgur.com/Imrwzhb.png)
+
+######This plugin was built in less than 2 hours. So any issue while testing is ver welcomed. Thanks a lot !
