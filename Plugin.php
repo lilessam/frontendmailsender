@@ -9,6 +9,10 @@ class Plugin extends PluginBase
     * This plugin requires Rainlab.User Plugin
     * */
     /**
+     * @var array Plugin dependencies
+     */
+    public $require = [ 'RainLab.User' ];
+    /**
      * This declares basic information about plugin and its author
      * */
     public function pluginDetails()
